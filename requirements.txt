@@ -1,3 +1,5 @@
+nltk
 streamlit
-pandas
-numpy
+scikit-learn
+streamlit_modal
+streamlit_extras
